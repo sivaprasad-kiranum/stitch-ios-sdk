@@ -6,7 +6,7 @@ import StitchCoreSDK
  * 
  * Use it to initialize and retrieve a `StitchAppClient` for your Stitch app.
  */
-public class Stitch {
+@objc public class Stitch : NSObject {
 
     // MARK: Properties
 
